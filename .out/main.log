@@ -1,0 +1,374 @@
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.euc) (TeX Live 2022) (preloaded format=platex 2022.4.13)  24 JAN 2023 17:19
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/hirotoueda/Desktop/read_project/read_paper_orsj2022/main.tex
+(/Users/hirotoueda/Desktop/read_project/read_paper_orsj2022/main.tex
+pLaTeX2e <2021-11-15> (based on LaTeX2e <2021-11-15> patch level 1)
+L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2020/09/30 v1.8f Standard pLaTeX class
+\c@@paper=\count184
+(/usr/local/texlive/2022/texmf-dist/tex/platex/base/jsize11.clo
+File: jsize11.clo 2020/09/30 v1.8f Standard pLaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 615.
+\toclineskip=\dimen154
+\@lnumwidth=\dimen155
+\bibindent=\dimen156
+\heisei=\count193
+) (./orsabs-utf8.sty) (/usr/local/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\caption@tempdima=\dimen157
+\captionmargin=\dimen158
+\caption@leftmargin=\dimen159
+\caption@rightmargin=\dimen160
+\caption@width=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionskip \iftdir \sbox \@tempboxa {#1\hskip 1zw#2}\else \sbox \@tempboxa {#1: #2}\fi \ifdim \wd \@tempboxa >\hsize \iftdir #1\hskip 1zw#2\relax \par \else #1: #2\relax \par \fi \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \vskip \belowcaptionskip  on input line 1176.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count194
+\c@continuedfloat=\count195
+)
+\c@subfigure=\count196
+\c@subtable=\count197
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/autobreak/autobreak.sty
+Package: autobreak 2017/02/23 v0.3 simple line breaking of long formulae
+\everybeforeautobreak=\toks18
+\everyafterautobreak=\toks19
+\@autobreak@alltoks=\toks20
+\@autobreak@linetoks=\toks21
+\@autobreak@lhswidth=\dimen165
+\@autobreak@rhswidth=\dimen166
+\@autobreak@maxlhswidth=\dimen167
+\@autobreak@realmaxlhswidth=\dimen168
+\@autobreak@maxrhswidth=\dimen169
+\c@@autobreak@eqnindex=\count198
+\c@@autobreak@subeqnindex=\count199
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen170
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen171
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box67
+\strutbox@=\box68
+\big@size=\dimen172
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count271
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip16
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
+\tag@help=\toks23
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
+\andhelp@=\toks24
+\eqnshift@=\dimen173
+\alignsep@=\dimen174
+\tagshift@=\dimen175
+\tagwidth@=\dimen176
+\totwidth@=\dimen177
+\lineht@=\dimen178
+\@envbody=\toks25
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)))) (/usr/local/texlive/2022/texmf-dist/tex/latex/breqn/breqn.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2022-02-07 L3 backend support: dvips
+\l__pdf_internal_box=\box69
+\g__pdf_backend_object_int=\count278
+\l__pdf_backend_content_box=\box70
+\l__pdf_backend_model_box=\box71
+\g__pdf_backend_annotation_int=\count279
+\g__pdf_backend_link_int=\count280
+\g__pdf_backend_link_sf_int=\count281
+))
+Package: breqn 2021/10/28 v0.98l Breaking equations
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 107.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen179
+\Gin@req@width=\dimen180
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/breqn/flexisym.sty
+Package: flexisym 2021/10/28 v0.98l Make math characters macros
+LaTeX Info: Redefining \textprime on input line 299.
+LaTeX Info: Redefining \not on input line 357.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/breqn/cmbase.sym
+File: cmbase.sym 2007/12/19 v0.92
+LaTeX Info: Redefining \hbar on input line 324.
+LaTeX Info: Redefining \surd on input line 326.
+LaTeX Info: Redefining \angle on input line 334.
+LaTeX Info: Redefining \neq on input line 335.
+LaTeX Info: Redefining \mapsto on input line 336.
+LaTeX Info: Redefining \cong on input line 337.
+LaTeX Info: Redefining \notin on input line 340.
+LaTeX Info: Redefining \rightleftharpoons on input line 341.
+LaTeX Info: Redefining \doteq on input line 342.
+LaTeX Info: Redefining \hookrightarrow on input line 343.
+LaTeX Info: Redefining \hookleftarrow on input line 344.
+LaTeX Info: Redefining \bowtie on input line 345.
+LaTeX Info: Redefining \models on input line 346.
+LaTeX Info: Redefining \Longrightarrow on input line 347.
+LaTeX Info: Redefining \longrightarrow on input line 348.
+LaTeX Info: Redefining \Longleftarrow on input line 349.
+LaTeX Info: Redefining \longleftarrow on input line 350.
+LaTeX Info: Redefining \longmapsto on input line 351.
+LaTeX Info: Redefining \longleftrightarrow on input line 352.
+LaTeX Info: Redefining \Longleftrightarrow on input line 353.
+LaTeX Info: Redefining \cdots on input line 357.
+LaTeX Info: Redefining \vdots on input line 360.
+LaTeX Info: Redefining \ddots on input line 365.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/breqn/mathstyle.sty
+Package: mathstyle 2021/10/28 v0.98l Tracking mathstyle implicitly
+LaTeX Info: Redefining \displaystyle on input line 95.
+LaTeX Info: Redefining \textstyle on input line 97.
+LaTeX Info: Redefining \scriptstyle on input line 99.
+LaTeX Info: Redefining \scriptscriptstyle on input line 101.
+LaTeX Info: Redefining \genfrac on input line 149.
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count282
+\calc@Bcount=\count283
+\calc@Adimen=\dimen181
+\calc@Bdimen=\dimen182
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count284
+\calc@Cskip=\skip54
+)
+\inf@bad=\count285
+\maxint=\count286
+\listwidth=\dimen183
+\eqnumsep=\dimen184
+\eqmargin=\dimen185
+\eqlinespacing=\skip55
+\eqlineskip=\skip56
+\eqlineskiplimit=\dimen186
+\eqbinoffset=\muskip17
+\eqdelimoffset=\muskip18
+\eqindentstep=\dimen187
+\eqstyle=\toks27
+\eqbreakdepth=\count287
+\eqinterlinepenalty=\count288
+\intereqpenalty=\count289
+\intereqskip=\skip57
+\prerelpenalty=\count290
+\prebinoppenalty=\count291
+\Dmedmuskip=\muskip19
+\Dthickmuskip=\muskip20
+\eqleftskip=\skip58
+\eqrightskip=\skip59
+\eq@vspan=\skip60
+\eq@binoffset=\muskip21
+\EQ@box=\box72
+\EQ@copy=\box73
+\EQ@numbox=\box74
+\eq@wdNum=\dimen188
+\GRP@numbox=\box75
+\grp@wdNum=\dimen189
+\eq@lines=\count292
+\eq@curline=\count293
+\eq@badness=\count294
+\EQ@vims=\count295
+\eq@dp=\dimen190
+\eq@wdL=\dimen191
+\eq@wdT=\dimen192
+\eq@wdMin=\dimen193
+\grp@wdL=\dimen194
+\grp@wdR=\dimen195
+\grp@wdT=\dimen196
+\eq@wdRmax=\dimen197
+\eq@firstht=\dimen198
+\eq@wdCond=\dimen199
+\eq@indentstep=\dimen256
+\eq@linewidth=\dimen257
+\grp@linewidth=\dimen258
+\eq@hshift=\dimen259
+\eq@given@sidespace=\dimen260
+\mathindent=\dimen261
+\eq@final@linecount=\count296
+\eq@wdR=\dimen262
+\EQ@continue=\toks28
+\lr@level=\count297
+\GRP@queue=\toks29
+\GRP@box=\box76
+\GRP@wholebox=\box77
+\darraycolsep=\skip61
+\cur@row=\count298
+\cur@col=\count299
+\conditionsep=\skip62
+) (.out/main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 30.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 30.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 33.
+[1
+
+
+]
+Overfull \hbox (31.34201pt too wide) detected at line 73
+[]
+ []
+
+
+Overfull \hbox (25.21509pt too wide) detected at line 82
+[]
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 82--83
+$\OML/cmm/m/it/10.95 h\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 j\OT1/cmr/m/n/10.95 ; \OML/cmm/m/it/10.95 t[]; [] ; t[]\OT1/cmr/m/n/10.95 )$ \JY1/mc/m/n/10.95 は最初の $\OML/cmm/m/it/10.95 j$ \JY1/mc/m/n/10.95 個のジ ョ ブが処理さ
+ []
+
+
+Overfull \hbox (4.32pt too wide) detected at line 83
+[] []
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 86--87
+[]\OT1/cmr/m/n/10.95 SP2 \JY1/mc/m/n/10.95 を解くアルゴリズムは \OT1/cmr/m/n/10.95 Hefner \JY1/mc/m/n/10.95 ら \OT1/cmr/m/n/10.95 [[]] \JY1/mc/m/n/10.95 の
+ []
+
+
+Package caption Warning: \captionsetup{subtype*=...} or \subcaptionof
+(caption)                outside box or environment on input line 96.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: \subcaption
+(caption)                outside box or environment on input line 96.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: \subcaption
+(caption)                outside box or environment on input line 104.
+See the caption package documentation for explanation.
+
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 117.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 117.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 117.
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 120.
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 123.
+LaTeX Font Info:    Kanji font shape `JY1/mc/m/it' undefined
+(Font)              No change on input line 128.
+[2] (.out/main.aux) ) 
+Here is how much of TeX's memory you used:
+ 4380 strings out of 478724
+ 75009 string characters out of 5858392
+ 389880 words of memory out of 5000000
+ 22791 multiletter control sequences out of 15000+600000
+ 481262 words of font info for 75 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 70i,13n,85p,1310b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on .out/main.dvi (2 pages, 17744 bytes).
